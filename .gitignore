@@ -1,0 +1,20 @@
+# игнорировать виртуальное окружение
+venv/
+
+# кэш питона
+__pycache__/
+*.py[cod]
+
+# логи
+*.log
+
+# системные файлы
+.DS_Store
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# модели и веса
+*.pt
+*.pth
+*.pkl
